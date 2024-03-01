@@ -7,16 +7,16 @@ This project focuses on deploying an algorithm for detecting counterfeit banknot
 Multiple Linear Regression and k-NN (k-Nearest Neighbors):
 Utilized for imputing missing values in the dataset.
 
-### Logistic Regression and k-Means with Principal Component Analysis (PCA):
+Logistic Regression and k-Means with Principal Component Analysis (PCA):
 Applied for predictive analysis and classification of results.
 
-### Data Imputation:
+Data Imputation:
 Employed Multiple Linear Regression and k-NN to fill in missing values, ensuring a comprehensive dataset for analysis.
 
-### Predictive Analysis:
+Predictive Analysis:
 Leveraged Logistic Regression for predictive modeling, providing insights into the likelihood of banknotes being genuine or counterfeit.
 
-### Dimensionality Reduction:
+Dimensionality Reduction:
 Applied k-Means clustering along with Principal Component Analysis (PCA) to reduce dimensionality and enhance the efficiency of predictive models.
 
 ## Conclusion:
