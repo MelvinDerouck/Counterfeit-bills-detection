@@ -1,5 +1,7 @@
 # Counterfeit-bills-detection
 
+![image](https://github.com/MelvinDerouck/Counterfeit-bills-detection/blob/main/bills.png)
+
 ## Project Overview:
 This project focuses on deploying an algorithm for detecting counterfeit banknotes based on dimensional data (6 metrics) of the bills. The dataset was divided into two parts, one labeled as genuine and the other as counterfeit, enabling the assessment of authenticity. Various machine learning techniques were employed for data preprocessing and predictive analysis.
 
